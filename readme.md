@@ -1,4 +1,6 @@
-The project consists of analyzing data about test results of a new cancer drug on mice by a pharmaceutical company. 
+![Pharmaceutical Data Analysis](images/header.jpg)
+
+## The project consists of analyzing data about test results of a new cancer drug on mice by a pharmaceutical company. 
 
 # **Progress Tracker**
 
@@ -11,3 +13,4 @@ The project consists of analyzing data about test results of a new cancer drug o
     - Only one mouse is duplicated and only for some timepoints
     - Tumor size differs slightly, probably was measured by 2 scientists, will keep the last value
 - Dropped the duplicated data
+- Added header to readme
