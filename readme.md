@@ -22,4 +22,4 @@
 
 ### *04/15/2021
 - Updated comments
-- Genral study summary statistics table
+- Tumor volume statistics table
