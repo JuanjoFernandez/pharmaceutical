@@ -22,8 +22,9 @@
 
 ### *04/15/2021
 - Updated comments
-- Tumor volume statistics table+
+- Tumor volume statistics table
 
 ### *04/16/2021
 - Fixed SEM, now it is computed using Scipy
+- Tumor volume table repeated using aggregate method
 
