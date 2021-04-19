@@ -28,3 +28,6 @@
 - Fixed SEM, now it is computed using Scipy
 - Tumor volume table repeated using aggregate method
 
+### *04/19/2021
+- Plotted measurements by drug regimen using pandas
+
