@@ -29,5 +29,5 @@
 - Tumor volume table repeated using aggregate method
 
 ### *04/19/2021
-- Plotted measurements by drug regimen using pandas
-
+- Plotted measurements by drug regimen using both pandas and pyplot
+- Pie chart of mouse sex distribution using both pandas and pyplot
