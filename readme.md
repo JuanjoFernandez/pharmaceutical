@@ -39,3 +39,4 @@
 - Box & whisker plots done
 - Line plot per Mouse ID for Capomulin Regimen
 - Scatter plot for Tumor Volume Average vs Mouse Weight
+- Linear regression model
