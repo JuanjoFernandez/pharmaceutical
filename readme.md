@@ -33,3 +33,6 @@
 - Pie chart of mouse sex distribution using both pandas and pyplot
 - Created new table with final tumor volume
 - Determined outliers by quantitative method
+
+### *04/20/2021
+- Created dictionary for box & whisker plots
