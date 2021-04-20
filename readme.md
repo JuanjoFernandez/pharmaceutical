@@ -38,3 +38,4 @@
 - Created dictionary for box & whisker plots
 - Box & whisker plots done
 - Line plot per Mouse ID for Capomulin Regimen
+- Scatter plot for Tumor Volume Average vs Mouse Weight
