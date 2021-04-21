@@ -13,7 +13,9 @@
 - The application imports the two csv files provided [Mouse_metadata.csv](pharmaceutical\data\Mouse_metadata.csv) and [Study_results.csv](pharmaceutical\data\Study_results.csv)
 - The application annotates the mouse metadata in each observation by merging the two files into a single dataframe
 
-![sc1](images\sc1.png)
+    <p align="center">
+  <img src="images\sc1.png">
+</p>
 
 - Next, the application checks for duplicated data and prints out if any duplicates are found
 - If duplicated values are found it deletes them
@@ -21,11 +23,15 @@
 - For practice purposes the summary stats are obtained using 2 methods:
     - The first method involves groupby and data manipulation on an operation by line approach. Easier to review and troubleshoot the logic
 
-    ![sc2](images\sc2.png)
+        <p align="center">
+  <img src="images\sc2.png">
+</p>
 
     - The second method does all calculations on a single line of code, harder to review and troubleshoot but extremely effective
 
-    ![sc3](images\sc3.png)
+        <p align="center">
+  <img src="images\sc3.png">
+</p>
 
     - Both methods are consistent and produce exactly the same results
 
