@@ -6,7 +6,7 @@
 
 - The analysis will be done using pandas jupyter notebook
 - Python libraries used: pandas, matplotlib, scipy
-- Calculations, summary and insights are contained in [pymaceuticals_starter.ipynb](pharmaceutical\pymaceuticals_starter.ipynb)
+- Calculations, summary and insights are contained in [pymaceuticals_starter.ipynb](pymaceuticals_starter.ipynb)
 
 # **Repository Structure**
 
@@ -33,7 +33,7 @@
 
 # **Application breakdown**
 
-- The application imports the two csv files provided [Mouse_metadata.csv](pharmaceutical\data\Mouse_metadata.csv) and [Study_results.csv](pharmaceutical\data\Study_results.csv)
+- The application imports the two csv files provided [Mouse_metadata.csv](data\Mouse_metadata.csv) and [Study_results.csv](data\Study_results.csv)
 - The application annotates the mouse metadata in each observation by merging the two files into a single dataframe
 
 <p align="center">
@@ -62,7 +62,7 @@
 <img src="images\sc4.png">
 </p>
 
-- After that the application analyzes the data and produces a variety of graphs used in order to obtain some insights for the data provided, the insights are contained in the [pymaceuticals_starter.ipynb](pharmaceutical\pymaceuticals_starter.ipynb) jupyter notebook
+- After that the application analyzes the data and produces a variety of graphs used in order to obtain some insights for the data provided, the insights are contained in the [pymaceuticals_starter.ipynb](pymaceuticals_starter.ipynb) jupyter notebook
 
 <p align="center">
 <img src="images\sc5.png">
