@@ -8,6 +8,29 @@
 - Python libraries used: pandas, matplotlib, scipy
 - Calculations, summary and insights are contained in [pymaceuticals_starter.ipynb](pharmaceutical\pymaceuticals_starter.ipynb)
 
+# **Repository Structure**
+
+```` bash
+│   .gitignore                              # GITignore file
+│   changelog.md                            # Contains commit history
+│   LICENSE                                 # License for the repo
+│   pymaceuticals_starter.ipynb             # MAIN file for the app
+│   readme.md                               # ReadMe file
+│
+├───data                                    # Raw data for analysis      
+│       Mouse_metadata.csv                  # Mouse test subjects data
+│       Study_results.csv                   # Study results data
+│
+└───images                                  # Images for readme formatting
+        header.jpg                          # Header image
+        sc1.png                             # App screenshot
+        sc2.png                             # App screenshot
+        sc3.png                             # App screenshot
+        sc4.png                             # App screenshot
+        sc5.png                             # App screenshot
+
+````
+
 # **Application breakdown**
 
 - The application imports the two csv files provided [Mouse_metadata.csv](pharmaceutical\data\Mouse_metadata.csv) and [Study_results.csv](pharmaceutical\data\Study_results.csv)
