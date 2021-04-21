@@ -33,7 +33,7 @@
 
 # **Application breakdown**
 
-- The application imports the two csv files provided [Mouse_metadata.csv](data\Mouse_metadata.csv) and [Study_results.csv](data\Study_results.csv)
+- The application imports the two csv files provided [Mouse_metadata.csv](data/Mouse_metadata.csv) and [Study_results.csv](data/Study_results.csv)
 - The application annotates the mouse metadata in each observation by merging the two files into a single dataframe
 
 <p align="center">
