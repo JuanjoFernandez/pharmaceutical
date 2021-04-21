@@ -36,7 +36,7 @@
     - Both methods are consistent and produce exactly the same results
 
     <p align="center">
-  <img src="images\sc4.png">
+    <img src="images\sc4.png">
 </p>
 
 - After that the application analyzes the data and produces a variety of graphs used in order to obtain some insights for the data provided, the insights are contained in the [pymaceuticals_starter.ipynb](pharmaceutical\pymaceuticals_starter.ipynb) jupyter notebook
