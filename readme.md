@@ -1,6 +1,6 @@
 ![Pharmaceutical Data Analysis](images/header.jpg)
 
-## The project consists of analyzing data about test results of a new cancer drug on mice by a pharmaceutical company. 
+## The project consists of analyzing data about test results of a new cancer drug on mouse by a pharmaceutical company. 
 
 # **Overview**
 
